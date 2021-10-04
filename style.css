@@ -1,0 +1,49 @@
+
+#alignment{
+    height:300px;
+    align-items: center;
+    justify-content: center;
+}
+#leftSpace{
+    height:250px;
+    align-items: center;
+    
+}
+
+#record{
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+    background-color: green;
+    outline: none;
+    border:5px solid black;
+    color:white;
+    font-weight: bold;
+}
+#stopRecord{
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+    background-color:blue;
+    outline: none;
+    border:5px solid black;
+    color:white;
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+.recordedAudio{
+    left:100px;
+    right:100px;
+    position:relative;
+}
+#alignCenter{
+    align-items: center;
+}
+#aligntext{
+    text-align: center;
+}
+#upload{
+  width:100px;
+  margin-top: 20px;
+}
